@@ -1,0 +1,19 @@
+CupCarbon v. IoT 5.0
+----------------
+name:Simulador
+zoom:2
+centerposition_la:4.598455534716868
+centerposition_lo:-74.06064838171005
+map:0
+display_details:true
+draw_radio_links:true
+draw_sensor_arrows:false
+radio_links_color:0
+draw_marker_arrows:true
+display_rl_distance:false
+propagation:true
+display_marker_distance:true
+display_radio_messages:false
+draw_script_file_name:true
+display_print_messages:true
+display_all_routes:false

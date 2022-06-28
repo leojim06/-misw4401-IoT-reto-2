@@ -1,0 +1,10 @@
+List of parameters
+------------------------------------------
+device_type:2
+device_id:8
+device_longitude:-74.06278610229492
+device_latitude:4.598669420150036
+device_elevation:0.0
+device_radius:10.0
+device_hide:0
+natural_event_file_name:Gas_generator_3.evt
